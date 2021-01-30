@@ -1,0 +1,644 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"btn",
+				"btn-group"
+			],
+			[
+				"di",
+				"disabled"
+			],
+			[
+				"bt",
+				"btn-dark"
+			],
+			[
+				"btn-",
+				"btn-dark"
+			],
+			[
+				"backgro",
+				"background\tproperty"
+			],
+			[
+				"min",
+				"min-width\tproperty"
+			],
+			[
+				"bg-",
+				"bg-warning"
+			],
+			[
+				"bg",
+				"bg-success"
+			],
+			[
+				"margin",
+				"margin-bottom\tproperty"
+			],
+			[
+				"marg",
+				"margin-top\tproperty"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"padd",
+				"padding\tproperty"
+			],
+			[
+				"fo",
+				"footer\tTag"
+			],
+			[
+				"margi",
+				"margin-left\tproperty"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			],
+			[
+				"st",
+				"style\tAttr"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"border",
+				"border-bottom\tproperty"
+			],
+			[
+				"pad",
+				"padding-bottom\tproperty"
+			],
+			[
+				"inli",
+				"inline\tdisplay"
+			],
+			[
+				"flex",
+				"flex-basis\tproperty"
+			],
+			[
+				"fle",
+				"flex-shrink\tproperty"
+			],
+			[
+				"it",
+				"item2"
+			],
+			[
+				"fl",
+				"flex-grow\tproperty"
+			],
+			[
+				"ite",
+				"item1"
+			],
+			[
+				"ordem",
+				"ordem4"
+			],
+			[
+				"orde",
+				"ordem3"
+			],
+			[
+				"or",
+				"ordem2"
+			],
+			[
+				"sp",
+				"space-between\tjustify-content"
+			],
+			[
+				"blo",
+				"block\tdisplay"
+			],
+			[
+				"email",
+				"email"
+			],
+			[
+				"aut",
+				"autofocus\tAttr"
+			],
+			[
+				"au",
+				"autofocus\tAttr"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"backgr",
+				"background\tproperty"
+			],
+			[
+				"backgo",
+				"background\tproperty"
+			],
+			[
+				"he",
+				"header\tTag"
+			],
+			[
+				"tr",
+				"transition\tproperty"
+			],
+			[
+				"anima",
+				"animation\tproperty"
+			],
+			[
+				"animation-d",
+				"animation-direction\tproperty"
+			],
+			[
+				"ani",
+				"animation-name\tproperty"
+			],
+			[
+				"box",
+				"box-shadow\tproperty"
+			],
+			[
+				"tex",
+				"text-shadow\tproperty"
+			],
+			[
+				"pa",
+				"padding-bottom\tproperty"
+			],
+			[
+				"justif",
+				"justify-all\ttext-align"
+			],
+			[
+				"background",
+				"background\tproperty"
+			],
+			[
+				"fon",
+				"font-family\tproperty"
+			],
+			[
+				"conteudo",
+				"conteudo-titulo"
+			],
+			[
+				"back",
+				"background-attachment\tproperty"
+			],
+			[
+				"mar",
+				"margin-bottom\tproperty"
+			],
+			[
+				"s",
+				"style\tAttr"
+			],
+			[
+				"li",
+				"line-height\tproperty"
+			],
+			[
+				"l",
+				"lang\tAttr"
+			],
+			[
+				"borde",
+				"border\tproperty"
+			],
+			[
+				"margin-",
+				"margin-top\tproperty"
+			],
+			[
+				"c",
+				"cursor\tproperty"
+			],
+			[
+				"bor",
+				"border-bottom\tproperty"
+			],
+			[
+				"bloc",
+				"inline-block\tdisplay"
+			],
+			[
+				"inline",
+				"inline-block\tdisplay"
+			],
+			[
+				"ma",
+				"margin-right\tproperty"
+			],
+			[
+				"h",
+				"line-height\tproperty"
+			],
+			[
+				"bord",
+				"border\tproperty"
+			],
+			[
+				"caixa",
+				"caixa-conteudo"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"paddin",
+				"padding\tproperty"
+			],
+			[
+				"backgrou",
+				"background\tproperty"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"p",
+				"placeholder\tAttr"
+			],
+			[
+				"border-r",
+				"border-radius\tproperty"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"u",
+				"uppercase\ttext-transform"
+			],
+			[
+				"border-",
+				"border-collapse\tproperty"
+			],
+			[
+				"paddi",
+				"padding\tproperty"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"cl",
+				"clear\tproperty"
+			],
+			[
+				"list",
+				"list-style\tproperty"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"inl",
+				"inline\tdisplay"
+			],
+			[
+				"es",
+				"especificidade"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"ali",
+				"align-items\tproperty"
+			],
+			[
+				"text-a",
+				"text-align\tproperty"
+			],
+			[
+				"padding",
+				"padding-bottom\tproperty"
+			],
+			[
+				"background-c",
+				"background-color\tproperty"
+			],
+			[
+				"text-de",
+				"text-decoration\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"te",
+				"text-align\tproperty"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"ti",
+				"title\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/joaob/OneDrive/Área de Trabalho/Desenvolvimento Web/bootstrap 4/apoio-botoes.html",
+		"/C/Users/joaob/OneDrive/Área de Trabalho/Desenvolvimento Web/bootstrap 4/apoio-breakpoints.html",
+		"/C/Users/joaob/OneDrive/Área de Trabalho/Desenvolvimento Web/bootstrap 4/media-queries/estilo-impressao.css",
+		"/C/Users/joaob/OneDrive/Área de Trabalho/Desenvolvimento Web/bootstrap 4/media-queries/estilo.css",
+		"/C/Users/joaob/OneDrive/Área de Trabalho/Desenvolvimento Web/bootstrap 4/media-queries/index.html",
+		"/C/Users/joaob/OneDrive/Área de Trabalho/Desenvolvimento Web/bootstrap 4/apoio-tamanhos-bordas.html",
+		"/C/Users/joaob/OneDrive/Área de Trabalho/Desenvolvimento Web/bootstrap 4/apoio-margin-padding.html",
+		"/C/Users/joaob/OneDrive/Área de Trabalho/Desenvolvimento Web/bootstrap 4/cores-backgrounds.html",
+		"/C/Users/joaob/OneDrive/Área de Trabalho/apoio-cores-background.html",
+		"/C/Users/joaob/OneDrive/Área de Trabalho/apoio-elementos-flutuantes.html",
+		"/C/Users/joaob/OneDrive/Área de Trabalho/Desenvolvimento Web/Projetos JB/index.html",
+		"/C/Users/joaob/OneDrive/Área de Trabalho/Desenvolvimento Web/Projeto Museu Nacional/css/estilo.css",
+		"/C/Users/joaob/OneDrive/Área de Trabalho/Desenvolvimento Web/Projeto Museu Nacional/index.html",
+		"/C/Users/joaob/OneDrive/Área de Trabalho/Desenvolvimento Web/CSS3 intermediário e avançado/Chalé - Hotel/contato.html",
+		"/C/Users/joaob/OneDrive/Área de Trabalho/Desenvolvimento Web/CSS3 intermediário e avançado/Chalé - Hotel/index.html",
+		"/C/Users/joaob/OneDrive/Área de Trabalho/Desenvolvimento Web/Projeto Museu Nacional/css/normalize.css",
+		"/C/Users/joaob/OneDrive/Área de Trabalho/Desenvolvimento Web/HTML5 - Novas Tags/flexbox-container.html",
+		"/C/Users/joaob/OneDrive/Área de Trabalho/Desenvolvimento Web/HTML5 - Novas Tags/css/estilo.css",
+		"/C/Users/joaob/OneDrive/Área de Trabalho/Desenvolvimento Web/HTML5 - Novas Tags/js/html5shiv.js",
+		"/C/Users/joaob/OneDrive/Área de Trabalho/Desenvolvimento Web/Recursos especiais HTML5 e CSS3/CSS3 Recursos/css/estilo3.css",
+		"/C/Users/joaob/OneDrive/Área de Trabalho/Desenvolvimento Web/Recursos especiais HTML5 e CSS3/CSS3 Recursos/transições.html",
+		"/C/Users/joaob/OneDrive/Área de Trabalho/Desenvolvimento Web/Recursos especiais HTML5 e CSS3/CSS3 Recursos/css/estilo4.css",
+		"/C/Users/joaob/OneDrive/Área de Trabalho/Desenvolvimento Web/Recursos especiais HTML5 e CSS3/CSS3 Recursos/css/estilo2.css",
+		"/C/Users/joaob/OneDrive/Área de Trabalho/Desenvolvimento Web/Recursos especiais HTML5 e CSS3/CSS3 Recursos/sombra.html",
+		"/C/Users/joaob/OneDrive/Área de Trabalho/Desenvolvimento Web/Recursos especiais HTML5 e CSS3/CSS3 Recursos/degrades.html",
+		"/C/Users/joaob/OneDrive/Área de Trabalho/Desenvolvimento Web/Recursos especiais HTML5 e CSS3/CSS3 Recursos/css/estilo1.css",
+		"/C/Users/joaob/OneDrive/Área de Trabalho/Desenvolvimento Web/Recursos especiais HTML5 e CSS3/CSS3 Recursos/border_radius-box_sizing.html",
+		"/C/Users/joaob/OneDrive/Área de Trabalho/Desenvolvimento Web/Recursos especiais HTML5 e CSS3/CSS3 Recursos/css/estilo.css",
+		"/C/Users/joaob/OneDrive/Área de Trabalho/Desenvolvimento Web/Recursos especiais HTML5 e CSS3/CSS3 Recursos/css/normalize.css",
+		"/C/Users/joaob/OneDrive/Área de Trabalho/Desenvolvimento Web/CSS3 intermediário e avançado/Fontes/index.html",
+		"/C/Users/joaob/OneDrive/Área de Trabalho/Desenvolvimento Web/Parallax/index.html",
+		"/C/Users/joaob/OneDrive/Área de Trabalho/Desenvolvimento Web/CSS3 intermediário e avançado/Chalé - Hotel/css/estilo.css",
+		"/C/Users/joaob/OneDrive/Área de Trabalho/Desenvolvimento Web/CSS3 intermediário e avançado/Chalé - Hotel/gastronomia.html",
+		"/C/Users/joaob/OneDrive/Área de Trabalho/Desenvolvimento Web/CSS3 intermediário e avançado/Chalé - Hotel/historia.html",
+		"/C/Users/joaob/OneDrive/Área de Trabalho/Desenvolvimento Web/Projetos JB/CSS/estilo.css",
+		"/C/Users/joaob/OneDrive/Área de Trabalho/Desenvolvimento Web/Projeto CSS3 - Intermediário/elementos-flutuantes-pratica.html",
+		"/C/Users/joaob/OneDrive/Área de Trabalho/Desenvolvimento Web/CSS3 intermediário e avançado/Site Notícias - Cidade/fotos.html",
+		"/C/Users/joaob/OneDrive/Área de Trabalho/Desenvolvimento Web/CSS3 intermediário e avançado/Site Notícias - Cidade/index.html",
+		"/C/Users/joaob/OneDrive/Área de Trabalho/Desenvolvimento Web/Projetos JB/fotos.html",
+		"/C/Users/joaob/OneDrive/Área de Trabalho/Desenvolvimento Web/Projeto teste/index.html",
+		"/C/Users/joaob/OneDrive/Área de Trabalho/Desenvolvimento Web/CSS3 intermediário e avançado/css/estilo3.css",
+		"/C/Users/joaob/OneDrive/Área de Trabalho/Desenvolvimento Web/CSS3 intermediário e avançado/servicos2.html",
+		"/C/Users/joaob/OneDrive/Área de Trabalho/Desenvolvimento Web/CSS3 intermediário e avançado/Site Notícias - Cidade/CSS/estilo.css",
+		"/C/Users/joaob/OneDrive/Área de Trabalho/Desenvolvimento Web/CSS3 intermediário e avançado/layout.html",
+		"/C/Users/joaob/OneDrive/Área de Trabalho/Desenvolvimento Web/Projetos JB/CSS",
+		"/C/Users/joaob/OneDrive/Área de Trabalho/Desenvolvimento Web/CSS3 intermediário e avançado/Site Notícias - Cidade/nova-legislacao.html",
+		"/C/Users/joaob/OneDrive/Área de Trabalho/Desenvolvimento Web/CSS3 intermediário e avançado/Site Notícias/index.html",
+		"/C/Users/joaob/OneDrive/Área de Trabalho/Desenvolvimento Web/CSS3 intermediário e avançado/Site Notícias/Notícias - Cidade",
+		"/C/Users/joaob/OneDrive/Área de Trabalho/Desenvolvimento Web/CSS3 intermediário e avançado/arredodamento.html",
+		"/C/Users/joaob/OneDrive/Área de Trabalho/Desenvolvimento Web/CSS3 intermediário e avançado/css/estilo8.css",
+		"/C/Users/joaob/OneDrive/Área de Trabalho/Desenvolvimento Web/CSS3 intermediário e avançado/css/estilo5.css",
+		"/C/Users/joaob/OneDrive/Área de Trabalho/Desenvolvimento Web/CSS3 intermediário e avançado/index3.html",
+		"/C/Users/joaob/OneDrive/Área de Trabalho/Desenvolvimento Web/CSS3 intermediário e avançado/servicos3.html",
+		"/C/Users/joaob/OneDrive/Área de Trabalho/Desenvolvimento Web/CSS3 intermediário e avançado/sobre3.html",
+		"/C/Users/joaob/OneDrive/Área de Trabalho/Desenvolvimento Web/CSS3 intermediário e avançado/css/estilo4.css",
+		"/C/Users/joaob/OneDrive/Área de Trabalho/Desenvolvimento Web/CSS3 intermediário e avançado/index.html",
+		"/C/Users/joaob/OneDrive/Área de Trabalho/Desenvolvimento Web/CSS3 intermediário e avançado/sobre2.html",
+		"/C/Users/joaob/OneDrive/Área de Trabalho/Desenvolvimento Web/CSS3 intermediário e avançado/css/estilo2.css",
+		"/C/Users/joaob/OneDrive/Área de Trabalho/Desenvolvimento Web/CSS3 intermediário e avançado/sobre.html",
+		"/C/Users/joaob/OneDrive/Área de Trabalho/Desenvolvimento Web/CSS3 intermediário e avançado/servicos.html",
+		"/C/Users/joaob/OneDrive/Área de Trabalho/Desenvolvimento Web/CSS3 intermediário e avançado/navegacao-vertical.html",
+		"/C/Users/joaob/OneDrive/Área de Trabalho/Desenvolvimento Web/CSS3 intermediário e avançado/123.html",
+		"/C/Users/joaob/OneDrive/Área de Trabalho/Desenvolvimento Web/CSS3 intermediário e avançado/heranca-especificidade.html",
+		"/C/Users/joaob/OneDrive/Área de Trabalho/Desenvolvimento Web/CSS3 intermediário e avançado/css/estilo1.css",
+		"/C/Users/joaob/OneDrive/Área de Trabalho/Desenvolvimento Web/CSS3 intermediário e avançado/Herança e especificidade/estilo1.css",
+		"/C/Users/joaob/OneDrive/Área de Trabalho/Desenvolvimento Web/CSS3 intermediário e avançado/seletores.html",
+		"/C/Users/joaob/OneDrive/Área de Trabalho/Desenvolvimento Web/CSS3 intermediário e avançado/Herança e especificidade/heranca.html",
+		"/C/Users/joaob/OneDrive/Área de Trabalho/Desenvolvimento Web/Projeto TecBlog/index.html",
+		"/C/Users/joaob/OneDrive/Área de Trabalho/Desenvolvimento Web/Projeto CSS3 - Intermediário/formatando-links.html",
+		"/C/Users/joaob/OneDrive/Área de Trabalho/Desenvolvimento Web/Projeto CSS3 - Intermediário/elementos-flutuantes.html",
+		"/C/Users/joaob/OneDrive/Área de Trabalho/Desenvolvimento Web/CSS3 intermediário e avançado/Seletores/seletores.html",
+		"/C/Users/joaob/OneDrive/Área de Trabalho/Desenvolvimento Web/CSS3 intermediário e avançado/CSS/estilo.css",
+		"/C/Users/joaob/OneDrive/Área de Trabalho/Desenvolvimento Web/Projeto teste/servicos.html",
+		"/C/Users/joaob/OneDrive/Área de Trabalho/Desenvolvimento Web/Projeto teste/contato.html",
+		"/C/Users/joaob/OneDrive/Área de Trabalho/Desenvolvimento Web/Projeto teste/quem-somos.html",
+		"/C/Users/joaob/OneDrive/Área de Trabalho/Desenvolvimento Web/Projeto teste/estilo.css",
+		"/C/Users/joaob/OneDrive/Área de Trabalho/Desenvolvimento Web/Projeto CSS3 - Intermediário/elementos inline-block-inline_block.html",
+		"/C/Users/joaob/OneDrive/Área de Trabalho/Desenvolvimento Web/Projeto CSS3 - Intermediário/modelo-caixa.html",
+		"/C/Users/joaob/OneDrive/Área de Trabalho/Desenvolvimento Web/Projeto CSS3 - Intermediário/sobrepondo-elementos.html",
+		"/C/Users/joaob/OneDrive/Área de Trabalho/Desenvolvimento Web/Projeto CSS3 - Intermediário/Posicionamentos-absolute_fixed.html",
+		"/C/Users/joaob/OneDrive/Área de Trabalho/Desenvolvimento Web/Projeto teste",
+		"/C/Users/joaob/OneDrive/Área de Trabalho/index.html",
+		"/C/Users/joaob/OneDrive/Área de Trabalho/Desenvolvimento Web/Projeto TecBlog/css/estilo.css",
+		"/C/Users/joaob/OneDrive/Área de Trabalho/Desenvolvimento Web/Projeto CSS3 - Intermediário/Posicionamentos-static_relative.html",
+		"/C/Users/joaob/OneDrive/Área de Trabalho/Desenvolvimento Web/Projeto CSS3 - Intermediário/estilo.css",
+		"/C/Users/joaob/OneDrive/Área de Trabalho/Desenvolvimento Web/Projeto Universidade - CSS3/index.html",
+		"/C/Users/joaob/OneDrive/Área de Trabalho/Desenvolvimento Web/Projeto HTML5/index.html",
+		"/C/Users/joaob/OneDrive/Área de Trabalho/Desenvolvimento Web/Projeto Universidade - CSS3/projeto_estilo.css",
+		"/C/Users/joaob/OneDrive/Área de Trabalho/Desenvolvimento Web/Projeto Anna Bella - CSS3/projeto-estilo.css",
+		"/C/Users/joaob/OneDrive/Área de Trabalho/Desenvolvimento Web/Projeto HTML5/quem-somos.html",
+		"/C/Users/joaob/OneDrive/Área de Trabalho/Desenvolvimento Web/Projeto HTML5/contato.html",
+		"/C/Users/joaob/OneDrive/Área de Trabalho/Desenvolvimento Web/Projeto Anna Bella - CSS3/index.html",
+		"/C/Users/joaob/OneDrive/Área de Trabalho/Desenvolvimento Web/Projeto Anna Bella - CSS3/campanhas-publicitarias.html",
+		"/C/Users/joaob/OneDrive/Área de Trabalho/Desenvolvimento Web/Projeto Anna Bella - CSS3/biografia.html",
+		"/C/Users/joaob/OneDrive/Área de Trabalho/Desenvolvimento Web/Projeto Anna Bella - CSS3/contato.html",
+		"/C/Users/joaob/OneDrive/Área de Trabalho/Desenvolvimento Web/Projeto Anna Bella/index.html",
+		"/C/Users/joaob/OneDrive/Área de Trabalho/Desenvolvimento Web/Projeto Anna Bella/contato.html",
+		"/C/Users/joaob/OneDrive/Área de Trabalho/Desenvolvimento Web/Projeto Anna Bella/projeto-estilo.css",
+		"/C/Users/joaob/OneDrive/Área de Trabalho/Desenvolvimento Web/Projeto Anna Bella/biografia.html",
+		"/C/Users/joaob/OneDrive/Área de Trabalho/Desenvolvimento Web/Projeto CSS3/home-projeto-anabella.html",
+		"/C/Users/joaob/OneDrive/Área de Trabalho/Desenvolvimento Web/Projeto CSS3/HOME-PROJETO.html",
+		"/C/Users/joaob/OneDrive/Área de Trabalho/Desenvolvimento Web/Projeto CSS3/projeto-estilo.css",
+		"/C/ProgramData/UNIVALI/Portugol Studio/java/java-windows/bin/javaw.exe",
+		"/C/Users/joaob/OneDrive/Área de Trabalho/Desenvolvimento Web/Projeto CSS3/cor-imagem-fundo.html",
+		"/C/Users/joaob/OneDrive/Área de Trabalho/Desenvolvimento Web/Projeto CSS3/pagina1.html",
+		"/C/Users/joaob/OneDrive/Área de Trabalho/Desenvolvimento Web/Projeto CSS3/pagina2.html",
+		"/C/Users/joaob/OneDrive/Área de Trabalho/Desenvolvimento Web/Projeto CSS3/estilo.css",
+		"/C/Users/joaob/OneDrive/Área de Trabalho/Desenvolvimento Web/Projeto CSS3/estilos-textos.html",
+		"/C/Users/joaob/OneDrive/Área de Trabalho/Desenvolvimento Web/Projeto CSS3/tamanhos-textos.html",
+		"/C/Users/joaob/OneDrive/Área de Trabalho/Desenvolvimento Web/Projeto CSS3/fontes-cores.html",
+		"/C/Users/joaob/OneDrive/Área de Trabalho/Desenvolvimento Web/Projeto CSS3/bordas.html",
+		"/C/Users/joaob/OneDrive/Área de Trabalho/Desenvolvimento Web/Projeto CSS3/div-span.html",
+		"/C/Users/joaob/OneDrive/Área de Trabalho/Desenvolvimento Web/Projeto CSS3/classes_ids.html",
+		"/C/Users/joaob/OneDrive/Área de Trabalho/Desenvolvimento Web/Projeto CSS3/inline_style.html",
+		"/C/Users/joaob/OneDrive/Área de Trabalho/Projeto final/index.html",
+		"/C/Users/joaob/OneDrive/Área de Trabalho/Projeto final/quem-somos.html",
+		"/C/Users/joaob/OneDrive/Área de Trabalho/Projeto final/contato.html",
+		"/C/Users/joaob/OneDrive/Área de Trabalho/Projeto final/index2.html",
+		"/C/Users/joaob/OneDrive/Área de Trabalho/Primeiro Projeto/index.html",
+		"/C/Users/joaob/OneDrive/Área de Trabalho/Primeiro Projeto/contato.html",
+		"/C/Users/joaob/OneDrive/Área de Trabalho/Primeiro Projeto/Projeto.html",
+		"/C/Users/joaob/OneDrive/Área de Trabalho/Projeto Web/index.html",
+		"/C/Users/joaob/OneDrive/Área de Trabalho/Projeto Aula/index.html",
+		"/C/Users/joaob/OneDrive/Área de Trabalho/Projeto Aula/CSS/estilo-teste.css"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 46.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "gastronomia.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 198.0,
+	"status_bar_visible": false,
+	"template_settings":
+	{
+	}
+}
